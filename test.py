@@ -1,3 +1,4 @@
+# author: DucLee9x
 from tkinter import Canvas, Menu, messagebox
 import math
 import tkinter as tk
